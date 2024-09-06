@@ -19,8 +19,6 @@ public class ChatMessage {
         this(ChatMessageIdGenerator.getNextId(), LocalDateTime.now(), authorName, content);
     }
 
-
-
 }
 
 class ChatMessageIdGenerator {
@@ -28,6 +26,6 @@ class ChatMessageIdGenerator {
 
     public static long getNextId() {
 
-     return  ++id;
- }
+        return ++id;
+    }
 }
