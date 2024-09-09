@@ -1,4 +1,4 @@
-package org.koreait.exit.chat_24_09;
+package org.koreait.exam.chat_24_09;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package org.koreait.exit.chat_24_09;
+package org.koreait.exam.chat_24_09;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

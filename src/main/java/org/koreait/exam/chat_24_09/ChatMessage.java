@@ -1,4 +1,4 @@
-package org.koreait.exit.chat_24_09;
+package org.koreait.exam.chat_24_09;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;
